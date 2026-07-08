@@ -22,6 +22,8 @@ Workshop: Practical Seismic Interpretation, Reservoir Solutions (RES),2026.
 
 ## Related work
   •	Mid-Norwegian rifted margin structural domains: regional 2D interpretation, Møre & Vøring basins
+  
   •	Nise Formation reservoir characterization: MSc thesis, Halten Terrace, flow simulation in OPM Flow
+  
   •	Volve production analytics: production data diagnosis, Python/Excel
 
