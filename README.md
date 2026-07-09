@@ -1,29 +1,50 @@
-# seismic-interpretation-petrel
-Complete Seismic Interpretation Workflow in Petrel: well tie, Horizon & fault interpretation, attribute analysis, depth conversion
+## seismic-interpretation-petrel
 
-## What this repository shows
-Demonstrates seismic interpretation workflow executed in Petrel, from raw seismic and well data through to depth-converted structure maps. 
-The work was performed on a training dataset provided as part of the Practical Seismic Interpretation workshop by Reservoir Solutions (RES). 
+Complete seismic interpretation workflow in Petrel: seismic QC, well tie, horizon and fault interpretation, seismic attributes, time-depth conversion, and structural mapping.
+
+-----
+
+# what the project is
+
+Seismic interpretation helps energy companies understand where rock layers, faults, and possible reservoir zones are located before drilling or development decisions are made.
+This project demonstrates a full 3D seismic interpretation workflow used to convert seismic reflection data into geological surfaces, fault frameworks, and subsurface maps for reservoir evaluation.
+
+The work was performed on a dataset provided as part of the Practical Seismic Interpretation workshop by Reservoir Solutions (RES). 
 All interpretation shown here is my own work.
+ 
+**Data note**: Raw seismic (SEGY) and well (LAS) files are not included, as the dataset is course material.
+All figures are exports of my own interpretation.
 
-Data note: Raw seismic (SEGY) and well (LAS) files are not included, as the dataset is course material provided by RES.
-All figures are exports of my own interpretation, published with permission from Reservoir Solutions.
+**The technical workflow**
+1. Project setup and seismic data loading
+2. Seismic data QC
+3. 2D and 3D seismic visualization
+4. Well-to-seismic tie
+5. Fault interpretation
+6. Horizon interpretation
+7. Surface generation and structural mapping
+8. Seismic attribute analysis
+9. Depth conversion
+10. Interpretation summary and uncertainty
 
-
-## The workflow
-
-
-
-
+-------
 
 ## Tools
 Petrel (SLB): seismic interpretation, well tie, attribute generation, velocity modeling.
 Workshop: Practical Seismic Interpretation, Reservoir Solutions (RES),2026.
 
 ## Related work
-  •	Mid-Norwegian rifted margin structural domains: regional 2D interpretation, Møre & Vøring basins
   
   •	Nise Formation reservoir characterization: MSc thesis, Halten Terrace, flow simulation in OPM Flow
   
-  •	Volve production analytics: production data diagnosis, Python/Excel
+  •	Volve-field-production-analytics: production data diagnosis.
 
+  •	reservoir-characterization-machine-learning-Nise-Formation (ongoing)
+  
+  •	Mid-Norwegian rifted margin structural domains: regional 2D seismic interpretation, Møre & Vøring basins (ongoing)
+  
+----------
+
+**Contributions and comments are welcome**
+
+**Linda Afrifa** · MSc Petroleum Geosciences, NTNU · [LinkedIn](https://www.linkedin.com/in/linda-afrifa)
