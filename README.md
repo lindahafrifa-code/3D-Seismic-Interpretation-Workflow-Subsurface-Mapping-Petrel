@@ -30,7 +30,7 @@ All figures are exports of my own interpretation.
 -------
 
 ## Tools
-1. Petrel (SLB): seismic interpretation, well tie, attribute generation, velocity modeling.
+1. Petrel (SLB)
 2. Excel 
 
 ## Related work
