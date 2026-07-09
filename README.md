@@ -9,11 +9,13 @@ Complete seismic interpretation workflow in Petrel: seismic QC, well tie, horizo
 Seismic interpretation helps energy companies understand where rock layers, faults, and possible reservoir zones are located before drilling or development decisions are made.
 This project demonstrates a full 3D seismic interpretation workflow used to convert seismic reflection data into geological surfaces, fault frameworks, and subsurface maps for reservoir evaluation.
 
-The work was performed on a dataset provided as part of the Practical Seismic Interpretation workshop by Reservoir Solutions (RES). 
+The work was performed on a dataset provided as part of the Seismic Interpretation workshop (RES). 
 All interpretation shown here is my own work.
  
-**Data note**: Raw seismic (SEGY) and well (LAS) files are not included, as the dataset is course material.
-All figures are exports of my own interpretation.
+**Data note**: 
+Raw seismic (SEGY) and well (LAS) files are not included here, the dataset is course material.
+All figures exported are my own interpretation.
+
 
 **The technical workflow**
 1. Project setup and seismic data loading
