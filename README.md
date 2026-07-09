@@ -30,8 +30,8 @@ All figures are exports of my own interpretation.
 -------
 
 ## Tools
-Petrel (SLB): seismic interpretation, well tie, attribute generation, velocity modeling.
-Workshop: Practical Seismic Interpretation, Reservoir Solutions (RES),2026.
+1. Petrel (SLB): seismic interpretation, well tie, attribute generation, velocity modeling.
+2. Excel 
 
 ## Related work
   
